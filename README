@@ -1,13 +1,12 @@
-liteaddress.org
-JavaScript Client-Side Litecoin Wallet Generator
+JavaScript Client-Side Netcoin Wallet Generator
 
-Now Litecoin addresses and their corresponding private key can be conveniently 
+Now Netcoin addresses and their corresponding private key can be conveniently 
 generated in a web browser.
 
-The liteaddress.org project is a fork of the bitaddress.org project located at:
-https://github.com/pointbiz/bitaddress.org
+This project is a fork of the bitaddress.org project located at:
+https://github.com/Bale80/netcoinpaperwallet
 
-The liteaddress.org project provides an all-in-one HTML document with embedded
+This project provides an all-in-one HTML document with embedded
 JavaScript/Css/Images. The JavaScript is readable not minified and contains no
 XMLHttpRequest's (no AJAX). The benefit of this technique is you can load the 
 JavaScript locally and trust that the JavaScript did not change after being 
@@ -35,8 +34,8 @@ END USER NOTES:
 
 Notice of Copyrights and Licenses:
 ---------------------------------------
-The liteaddress.org project, software and embedded resources are copyright liteaddress.org. 
-The liteaddress.org name and logo are not part of the open source license.
+The netcoin project, software and embedded resources are copyright http://netcoin.org.uk/. 
+The netcoin name and logo are not part of the open source license.
 
 Portions of the all-in-one HTML document contain JavaScript codes that are the copyrights 
 of others. The individual copyrights are included throughout the document along with their 
